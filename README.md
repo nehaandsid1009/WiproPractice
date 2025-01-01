@@ -1,2 +1,4 @@
-# Finance Application
-A personal finance management application using Git.
+## Features in Development
+- Expense Tracker: A tool to track monthly expenses (in progress).
+
+###feature Placeholder
